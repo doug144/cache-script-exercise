@@ -30,3 +30,7 @@ You can find usage of this `[Cache]` attribute in numerous places in the code (i
 ## Your task
 You need create a solution that will avoid deploying code that contains caches that are not configured. Adjustments can be made anywhere in the [CI/CD Pipeline](#ci/cd-pipeline), 
 but not in the code itself.
+
+Your solution should be submitted by email and should include:
+1. A text file describing the overall solution
+1. Implementation of any required scripts in the scripting language of your choice
